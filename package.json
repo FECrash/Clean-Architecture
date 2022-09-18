@@ -1,0 +1,8 @@
+{
+  "name": "Clean-Architecture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FECrash/Clean-Architecture.git",
+  "author": "InSeong-So <goflvhxj2547@gmail.com>",
+  "license": "MIT"
+}
